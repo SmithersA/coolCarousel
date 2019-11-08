@@ -319,6 +319,37 @@ body {
           transform: rotate(-36deg);
 }
 
+/* -------------- Smithers Special ------------ */
+.count8 li:nth-child(2).icon {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.count8 li:nth-child(3) .icon {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+.count8 li:nth-child(4).icon {
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+.count8 li:nth-child(5) .icon {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+.count8 li:nth-child(6).icon {
+  -webkit-transform: rotate(135deg);
+          transform: rotate(135deg);
+}
+.count8 li:nth-child(7) .icon {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.count8 li:nth-child(8).icon {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+
 
 .circle--slider .animate-wrapper {
   width: 25%;
