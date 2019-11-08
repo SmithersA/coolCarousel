@@ -404,6 +404,7 @@ body {
           writing-mode: vertical-rl;
   text-orientation: upright;
   font-weight: 700;
+  color: #e4e1c8;
 }
 .circle--slider .prev {
   left: 250px;
