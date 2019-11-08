@@ -80,7 +80,7 @@ body {
 .circle--slider .circle--rotate > li div {
   position: relative;
   overflow: visible;
-  background-color: #1f2845;
+  background-color: #3c7c86;
 }
 .circle--slider .circle--rotate > li div span {
   -webkit-transform: rotate(0deg);
@@ -90,7 +90,7 @@ body {
 }
 .circle--slider .circle--rotate > li.active div {
   font-size: 20px;
-  background-color: #654be4;
+  background-color: #8a8c2c;
   transition: all 1s;
 }
 .circle--slider .circle--rotate > li.active div span {
