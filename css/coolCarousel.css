@@ -1,6 +1,6 @@
 /* Section Services */
 body {
-  background: url("data:image/svg+xml;utf8,<svg width="100%" height="100%"><filter id='roughpaper' x='0%' y='0%' width='100%' height="100%"><feTurbulence type="fractalNoise" baseFrequency='0.51' result='noise' numOctaves="6" /><feDiffuseLighting in='noise' lighting-color='#003039' surfaceScale='2'><feDistantLight azimuth='45' elevation='60' /></feDiffuseLighting></filter><rect x="0" y="0" width="100%" height="100%" filter="url(#roughpaper)" fill="none"></svg>");
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width="100%" height="100%"><filter id='roughpaper' x='0%' y='0%' width='100%' height="100%"><feTurbulence type="fractalNoise" baseFrequency='0.51' result='noise' numOctaves="6" /><feDiffuseLighting in='noise' lighting-color='#003039' surfaceScale='2'><feDistantLight azimuth='45' elevation='60' /></feDiffuseLighting></filter><rect x="0" y="0" width="100%" height="100%" filter="url(#roughpaper)" fill="none"></svg>");
   /* background-image: url(https://smithersa.github.io/coolCarousel/images/paper-bg-test.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
