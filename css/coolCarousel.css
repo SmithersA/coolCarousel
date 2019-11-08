@@ -118,7 +118,7 @@ body {
   -webkit-filter: blur(3px);
           filter: blur(3px);
   opacity: 0.7;
-  border: 6px solid #f48e2a;
+  border: 6px solid #8a8c2c;
   z-index: -1;
 }
 .circle--slider .circle--rotate > li.active div span:after {
@@ -133,7 +133,7 @@ body {
   height: 40%;
   border-radius: 50%;
   opacity: 0.7;
-  border: 8px solid #fe9290;
+  border: 8px solid #b05626;
   z-index: 5;
 }
 .circle--slider .count2 li:nth-child(2) {
