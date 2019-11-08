@@ -27,7 +27,7 @@ body {
   z-index: 0;
   padding: 0;
 
-  > li {
+   li {
     position: absolute;
     left: 0;
     top: 0;
