@@ -322,6 +322,7 @@ body {
 .circle--slider .count8 li:nth-child(8) .icon {
   background-image: url(https://smithersa.github.io/coolCarousel/images/circle-card-image-sepia.png);
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .circle--slider .animate-wrapper {
