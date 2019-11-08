@@ -137,7 +137,8 @@ body {
   border: 8px solid #b05626;
   z-index: 5;
 }
-/* .circle--slider .count2 li:nth-child(2) {
+
+.circle--slider .count2 li:nth-child(2) {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
@@ -317,7 +318,6 @@ body {
   -webkit-transform: rotate(-36deg);
           transform: rotate(-36deg);
 }
-*/
 
 
 .circle--slider .animate-wrapper {
